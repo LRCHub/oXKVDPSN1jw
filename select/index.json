@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜光通信（Instrumental）",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-07T16:53:27.693797Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜光通信",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_夜光通信_大神ミオ.txt"
+    }
+  ]
+}
